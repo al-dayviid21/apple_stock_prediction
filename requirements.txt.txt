@@ -1,0 +1,10 @@
+All the necessaries libraries are listed below:
+> requests
+> pandas
+> numpy
+> matplotlib
+> seaborn
+> statsmodels
+> arch
+
+If one is working on Jupyter Notebook, it may be necessary to pip install arch.
